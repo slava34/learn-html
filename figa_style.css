@@ -1,0 +1,228 @@
+.head1{
+  background-color: #007765;
+  weight: 1110px;
+  height: 84px;
+  margin-left: auto;
+  margin-right: auto;
+  position: fixed;
+  display: flex;
+  justify-content: space-between;
+  font-family: sans-serif;
+  font-size: 26px;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.glav{
+
+}
+
+.logo{
+  weight: 184px;
+  height: 45px;
+  margin-top: 20px;
+  margin-left: 55px;
+}
+
+.abc{
+  vertical-align: center;
+  margin-right: 55px;
+  display: flex;
+  align-items: center;
+  color: white;
+}
+
+.line1{
+  border-right: 1px solid white;
+  padding-right: 8px;
+}
+
+.line2{
+  border-right: 1px solid white;
+  padding-right: 8px;
+  padding-left: 8px;
+}
+
+.line3{
+  padding-left: 8px;
+}
+
+.fotowith{
+  background-image: url("assets/Jumbotron.png");
+  background-size: cover;
+  height: 403px;
+  margin-top: 84px;
+}
+
+.tekst{
+  height: 719px;
+  background: #EEEEEE;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.heading{
+  margin-right: 55px;
+  margin-left: 55px;
+  margin-top: 48px;
+  font-family: sans-serif;
+  font-size: 64px;
+  color: #007765;
+}
+
+.paragrafs{
+  margin-right: 55px;
+  margin-left: 55px;
+  font-family: sans-serif;
+  font-size: 34px;
+  margin-bottom: 92px;
+}
+
+.fon2{
+  background-image: url("assets/Hero.png");
+  background-size: cover;
+  height: 483px;
+}
+
+.tekst2{
+  height: 604px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.heading2{
+  margin-right: 55px;
+  margin-left: 55px;
+  margin-top: 48px;
+  font-family: sans-serif;
+  font-size: 64px;
+  color: #007765;
+}
+
+.paragrafs2{
+  margin-right: 55px;
+  margin-left: 55px;
+  font-family: sans-serif;
+  font-size: 34px;
+  margin-bottom: 92px;
+}
+
+.PPC{
+  float:left;
+  height: 115px;
+  weight: 115px;
+  margin-right: 48px;
+}
+
+.theteam{
+  background: #EEEEEE;
+  height: 845px;
+}
+
+.tekst3{
+  background: #EEEEEE;
+  height: 845px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.heading3{
+  margin-right: 55px;
+  margin-left: 55px;
+  margin-top: 48px;
+  margin-bottom: 32px;
+  font-family: sans-serif;
+  font-size: 64px;
+  color: #007765;
+}
+
+.row1{
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.row2{
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.a11{
+  text-align: center;
+  width: 350px;
+  height: 283px;
+}
+
+.a12{
+  text-align: center;
+  width: 350px;
+  height: 283px;
+}
+
+.a13{
+  text-align: center;
+  width: 350px;
+  height: 283px;
+
+}
+
+.a21{
+  text-align: center;
+  width: 350px;
+  height: 283px;
+}
+
+.a22{
+  text-align: center;
+  width: 350px;
+  height: 283px;
+}
+
+.a23{
+  text-align: center;
+  width: 350px;
+  height: 283px;
+}
+
+
+.image{
+  width: 168px;
+  height: 168px;
+  margin-bottom: 30px;
+}
+
+.first1{
+  font-size: 24px;
+  font-family: sans-serif;
+  color: #007765;
+  font-weight: 600;
+}
+
+.first2{
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.end{
+  height: 176px;
+  background: #333333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.centerend{
+  width: 540px;
+  height: 64px;
+  text-align: center;
+  color: #FFFFFF;
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+}
